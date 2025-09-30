@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "8754cc58-a7a9-4e67-962d-4b0ee152cda2",
+		"name": "apiRESTCheckBdTADS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48033497",
+		"_collection_link": "https://l22200210-8058492.postman.co/workspace/Team-Workspace~a31ea3e8-308c-4c47-8822-4341c469b176/collection/48033497-8754cc58-a7a9-4e67-962d-4b0ee152cda2?action=share&source=collection_link&creator=48033497"
+	},
+	"item": [
+		{
+			"name": "Pruebas Generales",
+			"item": [
+				{
+					"name": "getMySqlConnectionCheckBd",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44382//check/checkbd/mysqlconectioncheckbd",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44382",
+							"path": [
+								"",
+								"check",
+								"checkbd",
+								"mysqlconectioncheckbd"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
