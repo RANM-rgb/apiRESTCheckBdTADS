@@ -20,3 +20,5 @@ Número de Control: **22200210**
 
 📍 Pachuca, Hidalgo  
 📅 25/09/2025
+Conclusion:
+En este trabajo estoy aprendiendo a manejar Git y GitHub para la gestión de versiones y el control de código en proyectos reales. He configurado un repositorio local, lo he enlazado con uno remoto y he realizado pruebas de subida de archivos mediante la terminal de VS Code. Con esto refuerzo la importancia de llevar un control estructurado de cambios, resolver conflictos entre versiones y mantener actualizado el código en un repositorio central. Esta práctica me permite adquirir experiencia en el flujo de trabajo profesional que se utiliza en equipos de desarrollo de software.
